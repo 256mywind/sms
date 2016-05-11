@@ -1,5 +1,5 @@
 {
-  "name": "sms",
+  "name": "256mywind/sms",
   "description": "Yii2 sms extension",
   "keywords": ["yii2", "extension", "sms", "plugin"],
   "homepage": "https://github.com/256mywind/sms.git",
